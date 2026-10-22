@@ -1,0 +1,3 @@
+<resources>
+<string name="app_name">Unit Converter</string><string name="eyebrow">EVERYDAY ESSENTIALS</string><string name="title">Unit Converter</string><string name="subtitle">A little clarity. Every conversion.</string><string name="category">Measurement</string><string name="value">Your value</string><string name="hint">Enter a number</string><string name="from">From unit</string><string name="to">To unit</string><string name="convert">Convert</string><string name="swap">Swap units</string><string name="result_label">CONVERTED VALUE</string><string name="empty_result">Ready when you are</string><string name="help">Choose your units, enter a value and tap Convert.</string><string name="footer">Length · Weight · Temperature</string>
+</resources>
