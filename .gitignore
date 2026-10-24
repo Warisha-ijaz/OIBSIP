@@ -1,0 +1,19 @@
+# Android build and cache files
+**/.gradle/
+**/build/
+**/.cxx/
+**/.externalNativeBuild/
+
+# Laptop-specific settings
+**/local.properties
+**/.idea/
+*.iml
+.DS_Store
+Thumbs.db
+
+# Credentials and signing keys
+.env
+.env.*
+*.jks
+*.keystore
+**/keystore.properties
