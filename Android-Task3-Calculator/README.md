@@ -40,7 +40,11 @@ Windows: `gradlew.bat assembleDebug`. macOS/Linux: `sh gradlew assembleDebug`. S
 - app/src/androidTest: instrumentation using real Activity buttons, plus recreation.
 
 ## Testing and screenshots
-See VERIFICATION.md for actual results and MANUAL_TESTS.md for remaining checks. Actual emulator screenshots are in screenshots/. No mockups are used as verification evidence.
+See VERIFICATION.md for actual results and MANUAL_TESTS.md for remaining checks. Actual emulator screenshots are shown below.
+
+| Addition | Decimal calculation | Division-by-zero error |
+| --- | --- | --- |
+| ![Addition](screenshots/addition.png) | ![Decimal calculation](screenshots/decimal.png) | ![Division-by-zero error](screenshots/error.png) |
 
 ## Limits
 Basic arithmetic only; no scientific functions, memory, history storage or algebraic precedence. Rounding applies to non-terminating divisions. Hardware keyboard shortcuts and locale-specific number entry are not implemented. Additional physical-device, TalkBack and screen-size checks remain manual.
