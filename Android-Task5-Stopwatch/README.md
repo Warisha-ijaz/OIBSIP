@@ -35,4 +35,10 @@ Windows: `gradlew.bat assembleDebug`. macOS/Linux: `sh gradlew assembleDebug`. C
 - app/src/androidTest: real Activity tests, background/return and recreation checks.
 
 ## Verification and screenshots
-See VERIFICATION.md for actual build and test results; MANUAL_TESTS.md lists human checks still needed. Screenshots in screenshots/ are actual emulator captures. Documentation and a demo script are included; publishing and submission have not occurred.
+See VERIFICATION.md for actual build and test results; MANUAL_TESTS.md lists human checks still needed. Screenshots below are actual emulator captures.
+
+| Ready | Running with laps | Paused after background return |
+| --- | --- | --- |
+| ![Ready](screenshots/ready.png) | ![Running with laps](screenshots/running-laps.png) | ![Paused after background return](screenshots/paused-after-background.png) |
+
+ Documentation and a demo script are included; publishing and submission have not occurred.
